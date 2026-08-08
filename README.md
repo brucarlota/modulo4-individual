@@ -15,3 +15,9 @@ dotnet run --project <ExercicioN>
 ```bash
 dotnet run --project Exercicio01
 ```
+
+## Criar um novo exercício
+
+```bash
+dotnet new console -n ExercicioN
+```
